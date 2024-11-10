@@ -5,6 +5,7 @@ Se ha actualizado el código de popular movies
 Obtiene las peliculas populares de la API:  https://www.themoviedb.org y permite ver los detalles de cada pelicula. 
 Se puede filtrar por nombre una pelicula entre las ya cargadas y evaluarla. 
 
+- Clean Arquitecure
 - Arquitecura MVVM
 - Coroutines
 - Extension Functions
@@ -13,10 +14,9 @@ Se puede filtrar por nombre una pelicula entre las ya cargadas y evaluarla.
 - StateFlow
 - Test unitarios con mockk
 - Almacenamiento local
-- Clean Arquitecure
 
 # Screenshots
 
-![alt text](https://github.com/sabrinaar/peliculasPopulares/blob/main/ScreenShots/popularMovies.gif)
+![](https://github.com/sabrinaar/popularmovies2024/blob/master/ScreenShots/popularMovies.gif)
 
 
