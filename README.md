@@ -17,8 +17,6 @@ Se puede filtrar por nombre una pelicula entre las ya cargadas y evaluarla.
 
 # Screenshots
 
-![alt text](https://github.com/sabrinaar/peliculasPopulares/blob/main/ScreenShots/Screenshot_20211031-124137_Peliculas%20Populares.jpg)
-
-![alt text](https://github.com/sabrinaar/peliculasPopulares/blob/main/ScreenShots/Screenshot_20211031-124304_Peliculas%20Populares.jpg)
+![alt text](https://github.com/sabrinaar/peliculasPopulares/blob/main/ScreenShots/popularMovies.gif)
 
 
