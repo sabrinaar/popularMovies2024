@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fondo del botón -->
+    <solid android:color="@color/primary_light"/> <!-- Puedes cambiar este color a uno que te guste -->
+
+    <!-- Bordes redondeados -->
+    <corners android:radius="24dp" /> <!-- Cambia el valor para ajustar el radio del redondeo -->
+
+    <!-- Sombra o efecto de borde -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/primary_dark"/> <!-- Este será el color del borde -->
+</shape>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Peliculas Populares</string>
+
+    <string name="portada_url_base185">https://image.tmdb.org/t/p/w185</string>
+    <string name="portada_url_base342">https://image.tmdb.org/t/p/w342</string>
+
+
+    <!-- sharedpreferences -->
+
+    <string name="rating_user_key">rating</string>
+
+    <!-- details -->
+    <string name="titulo">Titulo</string>
+    <string name="anio_label">Año: </string>
+    <string name="descripcion_label">Información</string>
+    <string name="rating_label">Rating: </string>
+    <string name="idioma_label">Idioma original: </string>
+    <string name="fecha_estreno_label">Fecha de estreno: </string>
+    <string name="duracion_label">Duración: </string>
+    <string name="genero_label">Género: </string>
+    <string name="votar_label">Tu voto:</string>
+    <string name="error_connection">Error de conexión. Intenta nuevamente.</string>
+
+    <!-- network state -->
+    <string name="error_conexion">Ups: Parece que no tienes internet</string>
+    <string name="reintentar">Reintentar</string>
+
+
+
+</resources>
